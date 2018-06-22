@@ -1,0 +1,14 @@
+<div *ngIf='profileData'>
+  <h1>Welcome {{ profileData.firstName }}</h1>
+  <p>{{profileData.headline}}</p>
+  <input type="text" (keyup.enter)='setPostUrl($event)'>
+</div>
+
+<div *ngIf='comments'>
+  <div *ngFor='let i of comments'>
+    <h1>{{i}}</h1>
+  </div>
+
+</div>
+
+

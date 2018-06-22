@@ -1,0 +1,40 @@
+{
+    "elements": [
+        {
+            "urn": "urn:li:comment:(activity:6415873436639432704,6415889645984411648)",
+            "viewAllLikesUrl": "/pulse-fe/api/v1/comment/urn:li:comment:(activity:6415873436639432704,6415889645984411648)/likes",
+            "createdDate": 1529667293069,
+            "mentions": [],
+            "totalLikes": 1,
+            "message": "Ma'am please upload your session on your YouTube channel.",
+            "commenter": {
+                "publicProfileUrl": "https://www.linkedin.com/in/suraj-gupta-236649125",
+                "name": "Suraj Gupta",
+                "headline": "HR Trainee at Radisson Blu Hotel Greater Noida",
+                "memberToken": "CwEAAAFkJ6XZ38YowhyIdr7whWO31X-tipc_J6tLcKYO7HalPVm8P8McQ2e5NsZ9OQ"
+            }
+        },
+        {
+            "urn": "urn:li:comment:(activity:6415873436639432704,6415874420912545792)",
+            "viewAllLikesUrl": "/pulse-fe/api/v1/comment/urn:li:comment:(activity:6415873436639432704,6415874420912545792)/likes",
+            "createdDate": 1529663663128,
+            "mentions": [],
+            "totalLikes": 0,
+            "message": "Can you share a few more details about this event?",
+            "commenter": {
+                "urn": "urn:li:member:407351190",
+                "publicProfileUrl": "https://www.linkedin.com/in/kritibahl",
+                "name": "Kriti Bahl",
+                "headline": "Pursuing PGDM",
+                "memberToken": "CwEAAAFkJ6XZ30N2TmMkFLIgKMrJK21mM1IkVTbdDMZLxr9Mpv2PQdC2qHHeKsnL"
+            }
+        }
+    ],
+    "paging": {
+        "total": 2,
+        "count": 2,
+        "start": 0,
+        "links": []
+    },
+    "sortBy": "REV_CHRON"
+}
